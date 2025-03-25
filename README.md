@@ -1,10 +1,10 @@
-# Mixture of Experts (MoE) – Classification Multi-Classe avec LLMs
+# Mixture of Experts (MoE) – Classification binaire avec LLMs
 
 ![Project Status](https://img.shields.io/badge/status-en%20construction-yellow)
 ![LLM](https://img.shields.io/badge/model-BERT%2C%20DistilBERT%2C%20RoBERTa-purple)
 ![HuggingFace](https://img.shields.io/badge/framework-HuggingFace%20Transformers%20Pytorch-blue)
 
-> Système de classification multi-classe basé sur une architecture Mixture of Experts (MoE), combinant plusieurs modèles de langage spécialisés.
+> Système de classification binaire basé sur une architecture Mixture of Experts (MoE), combinant plusieurs modèles de langage spécialisés.
 
 ---
 
